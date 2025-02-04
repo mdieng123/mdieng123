@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @mdieng123
-- Aspiring Security Software Engineering Professional
-- Amazon SDE intern
+- Aspiring Security Engineering Professional
+- Google Security Consulting intern
+- ex Amazon SDE intern
 - ex goverment cybersecurity intern
-- GCLD GSEC GCIH GFACT Security +
+- GCLD GSEC GFACT Security +
 - 📫 How to reach me mdieng38@gmail,com
 
 <!---
